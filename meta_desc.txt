@@ -1,0 +1,23 @@
+<meta name="description" content="Storiyaan is the voice of every story that deserves to be heard.
+Write us your story at teamstoriyaan@gmail.com">
+
+<!-- Google / Search Engine Tags -->
+<meta itemprop="name" content="Storiyaan - Stories that Inspire">
+<meta itemprop="description" content="Storiyaan is the voice of every story that deserves to be heard.
+Write us your story at teamstoriyaan@gmail.com">
+<meta itemprop="image" content="LOGO URL">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://storiyaan.com">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Storiyaan - Stories that Inspire">
+<meta property="og:description" content="Storiyaan is the voice of every story that deserves to be heard.
+Write us your story at teamstoriyaan@gmail.com">
+<meta property="og:image" content="LOGO URL">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Storiyaan - Stories that Inspire">
+<meta name="twitter:description" content="Storiyaan is the voice of every story that deserves to be heard.
+Write us your story at teamstoriyaan@gmail.com">
+<meta name="twitter:image" content="LOGO URL">
